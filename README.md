@@ -15,7 +15,7 @@ Tengo 18 años y estudio Ingeniería de Software.<br><br>
 <h2 align="center">✔ Proyectos Hechos</h2>
 <p align="left">
 • ISO gamer de Windows 10<br>
-<a href="https://tinyurl.com/SuperiorlyOS">SuperiorlyOS</a>
+<a href="https://tinyurl.com/SuperiorlyOS">🔗 Ver proyecto</a>
 </p>
 
 <h2 align="center">🛠️ Herramientas</h2>
