@@ -12,6 +12,11 @@ Tengo 18 años y estudio Ingeniería de Software.<br><br>
 • Scripts para optimizar sistemas (PC y Mobile)
 </p>
 
+<h2 align="center">✔ Proyectos Hechos</h2>
+<p align="left">
+• ISO gamer de Windows 10<br>
+</p>
+
 <h2 align="center">🛠️ Herramientas</h2>
 <p align="center">
 Herramientas que uso para diseño, desarrollo y videojuegos
